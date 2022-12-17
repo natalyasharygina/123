@@ -1,0 +1,15 @@
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\bin\Debug\net6.0\Examples002_HellUser.exe
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\bin\Debug\net6.0\Examples002_HellUser.deps.json
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\bin\Debug\net6.0\Examples002_HellUser.runtimeconfig.json
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\bin\Debug\net6.0\Examples002_HellUser.dll
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\bin\Debug\net6.0\Examples002_HellUser.pdb
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.csproj.AssemblyReference.cache
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.AssemblyInfoInputs.cache
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.AssemblyInfo.cs
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.dll
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\refint\Examples002_HellUser.dll
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.pdb
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\Examples002_HellUser.genruntimeconfig.cache
+C:\Users\Наталья\Desktop\Институт\Examples1\Examples002_HellUser\obj\Debug\net6.0\ref\Examples002_HellUser.dll
